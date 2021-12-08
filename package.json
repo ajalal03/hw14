@@ -1,0 +1,19 @@
+{
+  "name": "hw14",
+  "version": "1.0.0",
+  "description": "Ticker App",
+  "main": "mongo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "hw14"
+  },
+  "keywords": [
+    "companies"
+  ],
+  "author": "Adnan Jalal",
+  "license": "ISC"
+}
